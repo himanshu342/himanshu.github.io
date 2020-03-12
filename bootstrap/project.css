@@ -1,0 +1,52 @@
+#topHeader{
+    background-color: rgb(129, 19, 83);
+    text-align:end;
+    height:30px;
+}
+#topHeader a{
+    color:blue;
+    font-weight:600;
+    font-size:0.89rem;
+} 
+nav ul li a{
+    font-size:1rem;
+    font-weight: 500;
+}
+/* start of footer */
+.full-footer{
+    background-color:rgb(62, 85, 122);
+   
+}
+.bootom-footer{
+    background-color:black;
+    
+}
+.bootom-footer p{
+    color:wheat;
+}
+.top-footer p {
+    color:white;
+    font-weight: 400;
+} 
+.top-footer a{
+    color:white;
+    font-weight: 700;
+}
+/* end of footer */
+/* Starting of home Page */
+.requirment-section{
+    background-color:#004d82;
+
+}
+.home-letter{
+    background-color:#004d82;
+
+}
+.form-control{
+    border-radius: 20px;
+    /* border-color: blue; */
+    padding: 1rem;
+}
+.btn-theme {
+    border-radius: 0 20px 20px 0;
+background: #661343;}

@@ -1,0 +1,12 @@
+.cbox{
+    border:3px solid;
+    height:500px red;
+    background-color:yellow;
+
+}
+.dbox{
+    border: red solid;
+    height:30px;
+    background-color: green;
+
+}
